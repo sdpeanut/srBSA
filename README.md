@@ -42,7 +42,7 @@ result/
 ├── DeltaSNP/
 ├── dP/
 ├── ED4Final/
-├── PopGen/      # FST
+├── FST/      
 ├── Gprime/
 ├── HMM/
 └── LOD/
